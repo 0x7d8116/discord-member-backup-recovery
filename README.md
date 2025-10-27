@@ -1,10 +1,11 @@
-Authify – Server & Member Backup
+Cordly – Server & Member Backup
 Secure your Discord server with custom bots, advanced recovery tools, and powerful automation.
 
-Authify is complete free - no hidden cost!
+Cordly is complete free - no hidden cost!
 
 We will fix all bugs and do our best to implement every suggestion
 
-Switch now to Authify, the better Restorio, GuildMergers  & Restorecord alternative
+Switch now to Cordly, the better Restorio, GuildMergers  & Restorecord alternative
 
-https://discord.gg/authify
+https://discord.gg/cordly
+https://cordly.de/
